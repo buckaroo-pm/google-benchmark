@@ -60,3 +60,9 @@ CMakeSettings.json
 
 # Visual Studio Code cache/options directory
 .vscode/
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo_macros.bzl
